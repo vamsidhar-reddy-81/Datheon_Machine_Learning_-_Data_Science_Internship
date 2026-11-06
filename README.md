@@ -203,4 +203,4 @@ Open the `.ipynb` file and choose **Kernel → Restart & Run All**.
 **Morreddy Vamsidhar Reddy**
 B.Tech (AI & ML), Tirumala Engineering College
 
-[GitHub](https://github.com/vamsidhar-reddy-81) · [Portfolio](https://vamsidhar-reddy-81.github.io/My-Portfolio/)
+[GitHub](https://github.com/vamsidhar-reddy-81) · [Portfolio](https://vamsidhar-reddy-81.github.io/VamsidharReddy-Portfolio/)
